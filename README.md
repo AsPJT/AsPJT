@@ -1,4 +1,4 @@
-[![API reference](https://kasugaccho.github.io/DungeonPicture/Picture/UE4/psi480.gif)](https://github.com/Kasugaccho/DungeonTemplateLibrary)
+- [📱 Click here to visit the **Google Play Store**.](https://play.google.com/store/apps/developer?id=Gaccho)
 
 <!--
 **Kasugaccho/Kasugaccho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
