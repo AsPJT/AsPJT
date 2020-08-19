@@ -1,11 +1,11 @@
-- [📱 Click here to visit the **Google Play Store**.](https://play.google.com/store/apps/developer?id=Gaccho)
-
 <p align="center">
-<a href="https://github.com/Kasugaccho/DungeonTemplateLibrary"><img src="https://raw.githubusercontent.com/Kasugaccho/Kasugaccho/master/Picture/left.gif" width="416px"></a> <a href="https://github.com/Kasugaccho/DungeonTemplateLibrary"><img src="https://raw.githubusercontent.com/Kasugaccho/Kasugaccho/master/Picture/right.gif" width="416px"></a> <a href="https://github.com/Kasugaccho/DungeonTemplateLibrary"><img src="https://raw.githubusercontent.com/Kasugaccho/Kasugaccho/master/Picture/down.gif" width="832px"></a>
+<a href="https://github.com/Kasugaccho/DungeonTemplateLibrary"><img src="https://raw.githubusercontent.com/Kasugaccho/Kasugaccho/master/Picture/left.gif" width="416px"></a> <a href="https://github.com/Kasugaccho/DungeonTemplateLibrary"><img src="https://raw.githubusercontent.com/Kasugaccho/Kasugaccho/master/Picture/right.gif" width="416px"></a> <a href="https://github.com/Kasugaccho/DungeonTemplateLibrary"><img src="https://raw.githubusercontent.com/Kasugaccho/Kasugaccho/master/Picture/down.gif" width="836px"></a> <a href="https://github.com/Kasugaccho/DungeonTemplateLibrary"><img src="https://raw.githubusercontent.com/Kasugaccho/Kasugaccho/master/Picture/love.gif" width="836px"></a>
 </p>
  
 <!--
 **Kasugaccho/Kasugaccho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+- [📱 Click here to visit the **Google Play Store**.](https://play.google.com/store/apps/developer?id=Gaccho)
 
 Here are some ideas to get you started:
 
