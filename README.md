@@ -6,6 +6,10 @@
 [![GenkaiSyuraku](https://raw.githubusercontent.com/Kasugaccho/Kasugaccho/master/Picture/genkai_syuraku.png)](https://github.com/Kasugaccho/GenkaiSyuraku)
 [![AsLib](https://raw.githubusercontent.com/Kasugaccho/Kasugaccho/master/Picture/aslib.png)](https://github.com/Kasugaccho/AsLib)
 [![UnityDTL](https://raw.githubusercontent.com/Kasugaccho/Kasugaccho/master/Picture/dungeon_template_library_unity.png)](https://github.com/sitRyo/DungeonTemplateLibraryUnity)
+[![MayaGlyph](https://raw.githubusercontent.com/Kasugaccho/Kasugaccho/master/Picture/maya_glyph.png)](https://github.com/Kasugaccho/Maya-Glyph)
+[![WhackAMole](https://raw.githubusercontent.com/Kasugaccho/Kasugaccho/master/Picture/whack_a_mole.png)](https://github.com/Kasugaccho/Whack-A-Mole)
+[![VoronoiIsland](https://raw.githubusercontent.com/Kasugaccho/Kasugaccho/master/Picture/voronoi_island.png)](https://github.com/Kasugaccho/VoronoiIsland)
+[![Roguelike](https://raw.githubusercontent.com/Kasugaccho/Kasugaccho/master/Picture/roguelike.png)](https://github.com/Kasugaccho/Roguelike)
 
 <!--
 **Kasugaccho/Kasugaccho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
