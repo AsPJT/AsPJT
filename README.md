@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/AsPJT/DungeonTemplateLibrary"><img src="https://raw.githubusercontent.com/AsPJT/AsPJT/master/Picture/left.gif" width="424px"></a> <a href="https://github.com/AsPJT/DungeonTemplateLibrary"><img src="https://raw.githubusercontent.com/AsPJT/AsPJT/master/Picture/right.gif" width="424px"></a> <a href="https://github.com/AsPJT/DungeonTemplateLibrary"><img src="https://raw.githubusercontent.com/AsPJT/AsPJT/master/Picture/down.gif" width="854px"></a> <a href="https://github.com/AsPJT/DungeonTemplateLibrary"><img src="https://raw.githubusercontent.com/AsPJT/AsPJT/master/Picture/rpg.gif" width="854px"></a>
+<a href="https://github.com/AsPJT/DungeonTemplateLibrary"><img src="https://raw.githubusercontent.com/AsPJT/AsPJT/master/Picture/down.gif" width="854px"></a> <a href="https://github.com/AsPJT/DungeonTemplateLibrary"><img src="https://raw.githubusercontent.com/AsPJT/AsPJT/master/Picture/rpg.gif" width="854px"></a>
 </p>
 
 [![DTL](https://raw.githubusercontent.com/AsPJT/AsPJT/master/Picture/dungeon_template_library.png)](https://github.com/AsPJT/DungeonTemplateLibrary)
