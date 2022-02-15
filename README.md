@@ -1,7 +1,3 @@
-<p align="center">
-<a href="https://github.com/AsPJT/DungeonTemplateLibrary"><img src="https://raw.githubusercontent.com/AsPJT/AsPJT/master/Picture/down.gif" width="854px"></a> <a href="https://github.com/AsPJT/Crafterra"><img src="https://raw.githubusercontent.com/AsPJT/AsPJT/master/Picture/rpg.gif" width="854px"></a>
-</p>
-
 [![Crafterra](https://raw.githubusercontent.com/AsPJT/AsPJT/master/Picture/crafterra.png)](https://github.com/AsPJT/Crafterra)
 [![DTL](https://raw.githubusercontent.com/AsPJT/AsPJT/master/Picture/dungeon_template_library.png)](https://github.com/AsPJT/DungeonTemplateLibrary)
 [![GenkaiSyuraku](https://raw.githubusercontent.com/AsPJT/AsPJT/master/Picture/genkai_syuraku.png)](https://github.com/AsPJT/GenkaiSyuraku)
